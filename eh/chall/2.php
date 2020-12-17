@@ -75,7 +75,7 @@ else{
               </div>
             </div>
             <br>
-            <button style="align:right;" class="button is-info is-outlined is-small"><a href="/eh">Home</a></button> | 
+            <button style="align:right;" class="button is-info is-outlined is-small"><a href="/">Home</a></button> | 
             <button style="align:right;" class="button is-link is-outlined is-small"><a href="1.php">Previous Chall</a></button>
             <button style="align:right;" class="button is-link is-outlined is-small"><a href="3.php">Next Chall</a></button>
           </div>

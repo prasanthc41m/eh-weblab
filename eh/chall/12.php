@@ -66,7 +66,7 @@ header('Location: 12.php?status=ehackify');
               </div>
             </div>
             <br>
-            <button style="align:right;" class="button is-info is-outlined is-small"><a href="/eh">Home</a></button> | 
+            <button style="align:right;" class="button is-info is-outlined is-small"><a href="/">Home</a></button> | 
             <button style="align:right;" class="button is-link is-outlined is-small"><a href="11.php">Previous Chall</a></button>
             <button style="align:right;" class="button is-link is-outlined is-small"><a href="13.php">Next Chall</a></button>
           </div>

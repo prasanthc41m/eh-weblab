@@ -63,7 +63,7 @@ if(!isset($_GET['status'])) {
               </div>
             </div>
             <br>
-            <button style="align:right;" class="button is-info is-outlined is-small"><a href="/eh">Home</a></button> | 
+            <button style="align:right;" class="button is-info is-outlined is-small"><a href="/">Home</a></button> | 
             <button style="align:right;" class="button is-link is-outlined is-small"><a href="8.php">Previous Chall</a></button>
             <button style="align:right;" class="button is-link is-outlined is-small"><a href="10.php">Next Chall</a></button>
           </div>

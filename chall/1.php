@@ -63,7 +63,7 @@ echo $status;
               </div>
             </div>
             <br>
-            <button style="align:right;" class="button is-info is-outlined is-small"><a href="/eh">Home</a></button> | 
+            <button style="align:right;" class="button is-info is-outlined is-small"><a href="/">Home</a></button> | 
             <button style="align:right;" class="button is-link is-outlined is-small"><a href="2.php">Next Chall</a></button>
           </div>
         </div>

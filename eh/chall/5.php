@@ -66,7 +66,7 @@ if (isset($_COOKIE['labs-ehackify'])) {
               </div>
             </div>
             <br>
-            <button style="align:right;" class="button is-info is-outlined is-small"><a href="/eh">Home</a></button> | 
+            <button style="align:right;" class="button is-info is-outlined is-small"><a href="/">Home</a></button> | 
             <button style="align:right;" class="button is-link is-outlined is-small"><a href="4.php">Previous Chall</a></button>
             <button style="align:right;" class="button is-link is-outlined is-small"><a href="6.php">Next Chall</a></button>
           </div>

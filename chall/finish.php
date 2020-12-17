@@ -42,7 +42,7 @@
                 <div style="text-align:center;font-size:1em;">Congratulations on completing this challange <br>^_^<br>
                 
                 <br>Regards<br>eHackify Team<br><br>
-                <button style="text-align:center;" class="button is-info is-outlined is-small"><a href="/eh">Home</a></button>
+                <button style="text-align:center;" class="button is-info is-outlined is-small"><a href="/">Home</a></button>
               </div>
               </div>
               </div>
