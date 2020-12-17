@@ -42,7 +42,7 @@ Cross-site scripting labs for web application security students
 
 To run this image you need [docker](http://docker.com) installed. Just run the command:
 
-  ~~  docker run --name web-ctf -d -it -p 80:80 ehackify/xssweblab~~
+  ~~docker run --name web-ctf -d -it -p 80:80 ehackify/xssweblab~~
 ### Deploy Manually Docker image
 
 - Clone this repo (`git clone https://github.com/ehackify`)
@@ -51,7 +51,5 @@ To run this image you need [docker](http://docker.com) installed. Just run the c
 
 <br>
 <br>
-
-Thnks for Abhi-M and Codepen for References
 
   
