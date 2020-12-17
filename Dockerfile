@@ -2,7 +2,7 @@ FROM php:7.4-apache
 
 LABEL maintainer "Hightech (hightech@backboxindonesia.or.id)"
 
-COPY chall /var/www/html/eh/chall
+COPY chall /var/www/html/chall
 COPY css /var/www/html/css
 COPY img /var/www/html/img
 COPY src /var/www/html/src
