@@ -33,7 +33,7 @@ Cross-site scripting labs for web application security students
 ### Instalation :
 <ul>
   <li>Run your web server (XAMPP / LAMPP)</li>
-  <li>Clone the repository and put the files in the /htdocs/eh</li>
+  <li>Clone the repository and put the files in the /htdocs/eh-weblab</li>
   <li>You can akses http://localhost/eh-weblab</li>
   <li>Hacking Simplified ^_^</li>
 </ul>
