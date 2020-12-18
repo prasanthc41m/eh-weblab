@@ -1,7 +1,7 @@
 
 ## eh-weblab
 
-![Screenshoot](img/eh.png)
+![Screenshoot](img/logo300x70.png)
 <br>
 Cross-site scripting labs for web application security students
 
