@@ -39,10 +39,10 @@ Cross-site scripting labs for web application security students
 </ul>
 
 ### Run this image
-<pre>
+
 To run this image you need [docker](http://docker.com) installed. Just run the command:
-</pre>
-docker run --name xss-ctf -d -it -p 80:80 prasanthc41m/eh-xsslab:latest
+
+`docker run --name xss-ctf -d -it -p 80:80 prasanthc41m/eh-xsslab:latest`
 
 ### Deploy Manually Docker image
 
