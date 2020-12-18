@@ -47,7 +47,7 @@ To run this image you need [docker](http://docker.com) installed. Just run the c
 
 - Clone this repo (`git clone https://github.com/ehackify`)
 - Then run `docker build -t "eh-weblab" .` and wait untill it's done 
-- If the build is clear, run this command `docker run --name web-ctf -d -it -p 80:80 eh-weblab`
+- If the build is clear, run this command `docker run --name xss-ctf -d -it -p 80:80 eh-xsslab`
 
 <br>
 <br>
